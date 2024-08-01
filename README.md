@@ -9,15 +9,23 @@ full-stack web development from basics to intermediate techniques. Practical app
 include both front and back-end technologies.
 # Candidates are supported through the following modules:
 • HTML & CSS 101: Intro to HTML & CSS
+
 • HTML & CSS 102: Intermediate HTML & CSS
+
 • JavaScript 101: Intro to JavaScript
+
 • JavaScript 102: Intermediate JavaScript
+
 • Python 101: Intro to Python
+
 • Python 102: Python Fundamentals
+
 • Java 101: Intro to Java
 
 # At the end of the course, candidates will have the following: 
 • a comprehensive understanding of web and programming technologies
+
 • in-depth knowledge and skills to add unique features to their website to acquire 
 versatility in front-end and back-end development
+
 • coding skills to start a career in software development
